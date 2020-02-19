@@ -356,12 +356,12 @@
       function display_eq14(){
          if(n14%2 == 0){ 
             document.getElementById("MyEquation14").innerHTML=
-        ' <img src = "img6.jpg" width="350" height="500">'+
-' 　　　　　　　　　　　　1は、\\(2\\alpha+2\\beta=\\pi\\)であるから、\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、 \\(PQ⊥OR\\)である。 '+
-' 　　　　　　　　　　　　2は、1と同様に\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、\\triangle OPQは直角三角形である。 '+
-' 　　　　　　　　　　　　3は、\\(OP+QO\\)の値は一定ではない。 $$'+
-' 　　　　　　　　　　　　4は、\\(PQ\\)は\\(PA+QB\\)で表せるので合っている。 $$'+
-' 　　　　　　　　　　　　5は、3つの対応する角がすべて等しいので、\\triangle{AOP}\\( ∽ \\) \\triangle{BQO}となっている。 '+
+        ' <center><img src = "img6.jpg" width="350" height="500"></center>'+
+' 　　　　　　　　　　　　1は、\\(2\\alpha+2\\beta=\\pi\\)であるから、\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、 \\(PQ⊥OR\\)である。<br><br> '+
+' 　　　　　　　　　　　　2は、1と同様に\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、\\triangle OPQは直角三角形である。<br><br> '+
+' 　　　　　　　　　　　　3は、\\(OP+QO\\)の値は一定ではない。<br><br> $$'+
+' 　　　　　　　　　　　　4は、\\(PQ\\)は\\(PA+QB\\)で表せるので合っている。<br> <br>$$'+
+' 　　　　　　　　　　　　5は、3つの対応する角がすべて等しいので、\\triangle{AOP}\\( ∽ \\) \\triangle{BQO}となっている。 <br>'+
 ' 　　　　　　　　　　　　よって解答は３ ';
             MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
             n14+=1;
