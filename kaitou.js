@@ -359,7 +359,7 @@
         ' <center><img src = "img6.jpg" width="350" height="500"></center><br>'+
 '　　　　　　　　　　1は、\\(2\\alpha+2\\beta=\\pi\\)であるから、\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、 \\(PQ⊥OR\\)である。<br><br> '+
 '　　　　　　　　　　2は、1と同様に\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、\\(\\triangle\\)OPQは直角三角形である。<br><br> '+
-'　　　　　　　　　　3は、\\(PO=\\frac{AO}{\\sin\\alpha}、QO=\\frac{OB}{\\sin\\beta}\\)で線分\\(AO\\)と線分\\(OB\\)は一定で、\\(\\alpha、\\beta\\)は一定ではないため、\\(OP+QO\\)の値は一定ではない。<br><br> '+
+'　　　　　　　　　　3は、\\(PO=\\frac{AO}{\\sin\\alpha}、QO=\\frac{OB}{\\sin\\beta}\\)で線分\\(AO\\)と線分\\(OB\\)は一定で、\\(\\sin\\alpha、\\sin\\beta\\)は一定ではないため、\\(OP+QO\\)の値は一定ではない。<br><br> '+
 '　　　　　　　　　　4は、\\(\\triangle\\)PRO≡\\(\\triangle\\)PAO 、\\(\\triangle\\)QRO≡\\(\\triangle\\)QBOとなっているため、\\(PA=PR\\)、\\(QR=QB\\)より、\\(PQ\\)は\\(PA+QB\\)で表せる。<br> <br>'+
 '　　　　　　　　　　5は、3つの対応する角がすべて等しいので、\\(\\triangle \\)AOP\\(∽\\) \\(\\triangle\\)BQOとなっている。 <br><br>'+
 '　　　　　　　　　　よって解答は３ ';
