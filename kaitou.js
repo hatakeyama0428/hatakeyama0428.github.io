@@ -359,9 +359,9 @@
         ' <center><img src = "img6.jpg" width="350" height="500"></center><br>'+
 '　　　　　　　　　　1は、\\(2\\alpha+2\\beta=\\pi\\)であるから、\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、 \\(PQ⊥OR\\)である。<br><br> '+
 '　　　　　　　　　　2は、1と同様に\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、\\(\\triangle\\)OPQは直角三角形である。<br><br> '+
-'　　　　　　　　　　3は、\\(OP+QO\\)の値は一定ではない。<br><br> '+
-'　　　　　　　　　　4は、\\(PQ\\)は\\(PA+QB\\)で表せるので合っている。<br> <br>'+
-'　　　　　　　　　　5は、3つの対応する角がすべて等しいので、\\(\\triangle \\)AOP\\(∽\\) \\(\\triangle\\)BQOとなっている。 <br>'+
+'　　　　　　　　　　3は、水平でとる値\\(PQ=6\\)と\\(P、Q\\)どちらかを最大でとる値\\(\\frac{58}{7}\\)は異なるため、\\(OP+QO\\)の値は一定ではない。<br><br> '+
+'　　　　　　　　　　4は、\\(triangle\\)PRO≡\\(triangle\\)PAO 、\\(triangle\\)QRO≡\\(triangle\\)QBOとなっているため、\\(PA=PR\\)、\\(QR=QB\\)より、\\(PQ\\)は\\(PA+QB\\)で表せる。<br> <br>'+
+'　　　　　　　　　　5は、3つの対応する角がすべて等しいので、\\(\\triangle \\)AOP\\(∽\\) \\(\\triangle\\)BQOとなっている。 <br><br>'+
 '　　　　　　　　　　よって解答は３ ';
             MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
             n14+=1;
