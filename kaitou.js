@@ -357,12 +357,12 @@
          if(n14%2 == 0){ 
             document.getElementById("MyEquation14").innerHTML=
         ' <img src = "img6.jpg" width="350" height="500">'+
-　　　  '$$ 1は、2\\alpha+2\\beta=\\piであるから、\\alpha+\\beta=\\frac{\\pi}{2}より、 PQ⊥ORである。 $$'+
-            '$$ 2は、1と同様に\\alpha+\\beta=\\frac{\\pi}{2}より、\\triangle OPQは直角三角形である。 $$'+
-            '$$ 3は、OP+QOの値は一定ではない。 $$'+
-            '$$ 4は、PQはPA+QBで表せるので合っている。 $$'+
-            '$$ 5は、3つの対応する角がすべて等しいので、\\triangle{AOP} ∽ \\triangle{BQO}となっている。 $$'+
-            '$$ よって解答は３ $$';
+' 　　　　　　　　　　　　1は、\\(2\\alpha+2\\beta=\\pi\\)であるから、\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、 \\(PQ⊥OR\\)である。 '+
+' 　　　　　　　　　　　　2は、1と同様に\\(\\alpha+\\beta=\\frac{\\pi}{2}\\)より、\\triangle OPQは直角三角形である。 '+
+' 　　　　　　　　　　　　3は、\\(OP+QO\\)の値は一定ではない。 $$'+
+' 　　　　　　　　　　　　4は、\\(PQ\\)は\\(PA+QB\\)で表せるので合っている。 $$'+
+' 　　　　　　　　　　　　5は、3つの対応する角がすべて等しいので、\\triangle{AOP}\\( ∽ \\) \\triangle{BQO}となっている。 '+
+' 　　　　　　　　　　　　よって解答は３ ';
             MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
             n14+=1;
          }else{
