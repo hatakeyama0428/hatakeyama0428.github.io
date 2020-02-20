@@ -2,11 +2,11 @@
       function display_eq(){
          if(n%2 == 0){ 
             document.getElementById("MyEquation").innerHTML=
-　　　  '$$ f_{(x)}=2(x-p)(x-q)-(x-r)^2とおく。 $$'+
+　　　  '$$ f{(x)}=2(x-p)(x-q)-(x-r)^2とおく。 $$'+
             '$$ p＜q＜rより、 $$'+
-            '$$ f_{(p)}=-(p-r)^2＜0,　f_{(q)}=-(q-r)^2＜0,　f_{(r)}=2(r-p)(r-q)＞0 $$'+
-　　　  '$$ f_{(x)}は下に凸のグラフであるため、pより小さい値で、f_{(\\alpha)}=0となる\\alphaが存在する。 $$'+
-            '$$ さらに、q＜rで、f_{(q)}＜0,　f_{(r)}＞0より、q＜\\beta＜rでf_{(\\beta)}=0となる\\betaが存在する。 $$'+
+            '$$ f{(p)}=-(p-r)^2＜0,　f{(q)}=-(q-r)^2＜0,　f{(r)}=2(r-p)(r-q)＞0 $$'+
+　　　  '$$ f{(x)}は下に凸のグラフであるため、pより小さい値で、f{(\\alpha)}=0となる\\alphaが存在する。 $$'+
+            '$$ さらに、q＜rで、f{(q)}＜0,　f{(r)}＞0より、q＜\\beta＜rでf{(\\beta)}=0となる\\betaが存在する。 $$'+
             '$$ 以上より、解答は　１　\\alpha＜p＜q＜\\beta＜r $$';
             MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
             n+=1;
